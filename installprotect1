@@ -138,8 +138,8 @@ show_license() {
     echo
     echo "Product: Custom Security Middleware for Pterodactyl"
     echo "Version: 2.0"
-    echo "License: yogzzstr"
-    echo "Developer: @yogzzstr"
+    echo "License: zechoxcy"
+    echo "Developer: @zechox"
     echo
     echo "License Terms:"
     echo "• Single domain usage"
